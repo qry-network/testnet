@@ -12,6 +12,7 @@ Node vesrion: v1.0.3 (Spring)
 Chain P2Ps:
 ```
 p2p-peer-address = p2p.qry-test.cryptolions.io:4987
+p2p-peer-address = p2p.qry-test.rioblocks.io:58182
 # p2p-peer-address = add.yours.here
 ```
 
