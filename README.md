@@ -19,6 +19,7 @@ p2p-peer-address = p2p.qry-test.rioblocks.io:58182
 Chain APIs:
 ``` 
 https://api.qry-test.cryptolions.io/
+https://api.qry-test.rioblocks.io/
 # add.yours.here
 ```
 
