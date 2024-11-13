@@ -1,6 +1,6 @@
 ## QRY Testnet
 
-Monitor: Comming soon...
+Monitor: Coming soon...
 
 # Chain Info:
 ```
@@ -14,6 +14,7 @@ Chain P2Ps:
 p2p-peer-address = p2p.qry-test.cryptolions.io:4987
 p2p-peer-address = p2p.qry-test.rioblocks.io:58182
 p2p-peer-address = p2p.qry-test.sentnl.io:9999
+p2p-peer-address = peer1-qry-testnet.eosphere.io:9878
 # p2p-peer-address = add.yours.here
 ```
 
@@ -21,7 +22,8 @@ Chain APIs:
 ``` 
 https://api.qry-test.cryptolions.io/
 https://api.qry-test.rioblocks.io/
-https://api.qry-test.sentnl.io
+https://api.qry-test.sentnl.io/
+https://qry-testnet.eosphere.io/
 # add.yours.here
 ```
 
