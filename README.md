@@ -16,6 +16,7 @@ p2p-peer-address = p2p.qry-test.rioblocks.io:58182
 p2p-peer-address = p2p.qry-test.sentnl.io:9999
 p2p-peer-address = peer1-qry-testnet.eosphere.io:9878
 p2p-peer-address = p2p.qry.testnet.waxsweden.org:59276
+p2p-peer-address = test.qry.eosusa.io:19877
 # p2p-peer-address = add.yours.here
 ```
 
